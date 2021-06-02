@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import '../src/assets/css/bootstrap.min.css';
 import '../src/assets/css/typography.css';
 import '../src/assets/css/style.css';
+import '../src/styles/custom-image.css';
+import '../src/assets/css/remixicon.css';
 import '../src/assets/css/responsive.css';
 import '../src/assets/css/variable.css';
 

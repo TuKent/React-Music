@@ -1,0 +1,11 @@
+.image-albums{
+    width: 168px;
+    height: 172px;
+    object-fit: cover;
+}
+
+.image-songs{
+    width: 168px;
+    height: 126px;
+    object-fit: cover;
+}
